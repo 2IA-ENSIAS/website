@@ -1,16 +1,31 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "ENSIAS's AI Program",
+  "text": "Discover the extraordinary journey of ENSIAS's AI program, which began in 2019 and has since evolved to become the premier AI program in Morocco.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Curriculum and Faculty",
+      "content": "With a visionary curriculum, renowned faculty, and groundbreaking research, the program has shaped the AI landscape, achieving national and international recognition.",
+      "icon": "education.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "Student Environment and Achievements",
+      "content": "Students thrive in an innovative environment, excelling in competitions and contributing to AI advancements.",
+      "icon": "achievement.svg"
+    },
+    {
+      "title": "Alumni Impact",
+      "content": "Alumni continue to make a global impact.",
+      "icon": "global.svg"
+    },
+    {
+      "title": "Future Expansion",
+      "content": "As the program looks to the future, it plans to expand research efforts and tackle the challenges of an ever-evolving AI field.",
+      "icon": "future.svg"
+    },
+    {
+      "title": "Commitment to Accessibility and Inclusivity",
+      "content": "Ensuring accessibility and inclusivity, solidifying its place as a leader in AI education.",
+      "icon": "inclusivity.svg"
     }
   ]
 }

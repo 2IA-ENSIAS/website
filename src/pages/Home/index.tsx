@@ -21,13 +21,8 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="developer.svg"
+        icon="ensias.jpg"
         id="intro"
-      />
-      {/* <MiddleBlock
-        title={MiddleBlockContent.title}
-        content={MiddleBlockContent.text}
-        button={MiddleBlockContent.button}
       />
       <ContentBlock
         direction="left"
@@ -37,7 +32,7 @@ const Home = () => {
         icon="graphs.svg"
         id="about"
       />
-      <ContentBlock
+      {/* <ContentBlock
         direction="right"
         title={MissionContent.title}
         content={MissionContent.text}
@@ -50,12 +45,12 @@ const Home = () => {
         content={ProductContent.text}
         icon="waving.svg"
         id="product"
-      />
+      /> */}
       <Contact
         title={ContactContent.title}
         content={ContactContent.text}
         id="contact"
-      /> */}
+      />
     </Container>
   );
 };
