@@ -1,0 +1,145 @@
+1st year : 
+- Méthodes numérique pour l’ingénieur
+- Analyse convexe et optimisation
+- Programmation procédurale
+- Structures de données
+- Algorithmique
+- Architecture des ordinateurs	
+- Assembleur microprocesseur	
+- Programmation linéaire	
+- Théorie des graphes	
+- Comptabilité générale et gestion financière	
+- Economie d’entreprise	
+- Introduction au management d’entreprise	
+- communication et développement personnel
+- General english
+- Simulation des comportements probabilistes
+- Statistique descriptive pour l’ingénieur
+- Probabilités
+- Base de donnees (SQL / PLSQL)
+- Comptabilité analytique	
+- Economie générale	
+- Logique des prédicats	
+- Calculabilité et complexité	
+- Modélisation des systèmes d’information	
+- Programmation orienté objet (Java)
+- Transmission de données
+- Réseaux informatiques	
+- Systèmes d’exploitation
+- projet fédérateur
+
+2nd year:
+- Apprentissage Automatique	(theorie et modeles)
+- Visualisation Et Réduction De Dimensionnalité
+- Optimisation Combinatoire
+- La Sélection De Caractéristiques
+- Objets Connectes IoT
+- Traitement Des Donnees Multimedia
+- Systèmes Distribués
+- Calcul De Haute Performance
+- Statistique Inférentielle	
+- Analyse De Données (R studio)
+- Culture Entrepreneuriale
+- Projet De Création D’Entreprise
+- Processus De Décision Markovien	
+- Modèles Probabilistes Supervisés Et Non-Supervisés	
+- Apprentissage à Base Des Noyaux	
+- Apprentissage Stochastique à Base Des Noyaux	
+- Réseaux De Neurones Artificiels	
+- Apprentissage Profond	
+- Théorie D’Apprentissage Non Supervisé	
+- Modèles D’Apprentissage Automatique	
+- Concept Fondamental Des Systèmes Multi-Agents	
+- Apprentissage Dans l’Intelligence Collective	
+- Traitement du language naturel
+- Techniques De Recherche D’Emploi Et Entretiens D’Embauche	
+- Business English
+- projet fédérateur
+
+3rd year:
+- apprentissage par renforcement
+- algorithmes bio-inspirés
+- analyse de survie
+- optimisation des réseaux neuronaux
+- données larges (big data)
+- systèmes de recommendations
+- séries temporelle et prévision
+- données non structurés
+- toefl preparation
+- projet fédérateur 
+
+- 3 internships (1st, 2nd, and 3rd year)
+
+
+- Computer Science Fundamentals:
+-- Operational Research
+-- Algorithms and Data Structures
+-- Probabilities and Statistics
+-- Computer Architecture
+-- Operating Systems and Networks
+-- Relational Databases and UML
+-- Oriented Object Programming
+
+- AI Fundamentals:
+-- Learning Theory
+-- Machine Learning Algorithms
+-- Convex and Combinatoric Optimization
+-- Computer Vision
+-- Voice Recognition and Synthesis
+-- Natural Language Processing
+-- Deep Learning and Neural Networks
+-- Reinforcement Learning 
+-- Collective Intelligence
+-- Time Series Analysis
+-- Bio-inspired Algorithms
+-- Survival Analysis
+-- Generative Models
+
+- Data Science:
+-- Features Engineering
+-- Data Cleaning
+-- Data Visualization
+-- Data Clustering
+-- Dimensionality Reduction
+-- Explorative Data Analysis (EDA)
+
+- Full Stack and Software Development:
+-- Front-end and Back-end
+-- APIs
+-- Synchronous and Asynchronous Communication
+-- Versioning Systems
+-- Virtual Machine and Containers
+
+- Data Engineering:
+-- Big Data 
+-- Distributed Systems
+-- High Performance Computing
+-- Unstructured Data
+
+- Embeeded Systems:
+-- Microcontrollers
+-- Internet of Object
+
+- Economics and Management
+- English and Communication Technics
+- Research Techniques
+
+- 3 Practical Internships
+
+- Programming Languages
+-- Python / C / Java
+-- HTML / CSS / JavaScript
+-- R Language
+
+- Technologies and Frameworks
+-- Scikit-Learn / TensorFlow / Keras / PyTorch / NumPy / SciPy / OpenAI gymnasium
+-- Pandas / Apache Sparke / Seaborn / Matplotlib
+-- Jupyter Notebook
+-- Hadoop DFS
+-- Arduino
+-- Linux / Windows
+-- CUDA / OpenMP
+-- R Studio
+-- Virtual Machine
+-- Docker
+-- LaTeX
