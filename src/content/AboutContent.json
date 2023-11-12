@@ -1,16 +1,36 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Our Roles",
+  "text": "2IA engineers can take on a variety of roles, from data scientists and machine learning engineers to data engineers, AI researchers, project managers, and R&D engineers. Their flexibility and expertise make them valuable assets in the tech industry's diverse landscape.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Data Engineer",
+      "content": "designs, develops, and manages the architecture and infrastructure for collecting, processing, and storing large volumes of data efficiently.",
+      "icon": "data.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "ML Engineer",
+      "content": "focuses on designing and implementing machine learning models and algorithms, working to deploy them into applications.",
+      "icon": "ml.svg"
+    },
+    {
+      "title": "Data Scientist",
+      "content": "analyzes complex datasets to derive valuable insights and patterns, leveraging statistical and ML techniques to inform business decisions and solve problems.",
+      "icon": "ds.svg"
+    },
+    {
+      "title": "AI Researcher",
+      "content": "explores innovative techniques and methodologies to advance the field of artificial intelligence, contributing to the development of cutting-edge AI technologies.",
+      "icon": "math.svg"
+    },
+    {
+      "title": "R&D Engineer",
+      "content": "involved in the intersection of research and development by working on both AI optimization and implementation.",
+      "icon": "rd.svg"
+    },
+    {
+      "title": "Project Manager",
+      "content": " oversees and coordinates the planning, execution, and delivery of projects, ensuring that goals are achieved.",
+      "icon": "manager.svg"
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+    "title": "Our Roles",
+    "text": "2IA engineers can take on a variety of roles, from data scientists and machine learning engineers to data engineers, AI researchers, project managers, and R&D engineers. Their flexibility and expertise make them valuable assets in the tech industry's diverse landscape.",
+    "section": [
+      {
+        "title": "Data Engineer",
+        "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "ML Engineer",
+        "content": "Styled Components gives you total control over your components.",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "Data Scientist",
+        "content": "Styled Components gives you total control over your components.",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "AI Researcher",
+        "content": "Styled Components gives you total control over your components.",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "R&D Engineer",
+        "content": "Styled Components gives you total control over your components.",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "Project Manager",
+        "content": "Styled Components gives you total control over your components.",
+        "icon": "notes.svg"
+      }
+    ]
+  }
+  

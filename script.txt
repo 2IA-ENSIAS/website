@@ -143,3 +143,6 @@
 -- Virtual Machine
 -- Docker
 -- LaTeX
+
+
+Discover the extraordinary journey of ENSIAS's AI program, which began in 2019 and has since evolved to become the premier AI program in Morocco. With a visionary curriculum, renowned faculty, and groundbreaking research, the program has shaped the AI landscape, achieving national and international recognition. Students thrive in an innovative environment, excelling in competitions and contributing to AI advancements, while alumni continue to make a global impact. As the program looks to the future, it plans to expand research efforts and tackle the challenges of an ever-evolving AI field while ensuring accessibility and inclusivity, solidifying its place as a leader in AI education.
