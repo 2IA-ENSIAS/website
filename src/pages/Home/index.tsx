@@ -16,13 +16,10 @@ const Home = () => {
   return (
     <Container>
       <ScrollToTop />
-      <ContentBlock
-        direction="right"
+      <MiddleBlock
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="developer.svg"
-        id="about"
       />
       <CentredBlock
         title={RolesContent.title}

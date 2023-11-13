@@ -41,28 +41,19 @@ const BlockSection = ({ title, content, icon }: SectionProps) => {
   );
 };
 
-const CentredBlock = ({ title, content, sections, t, id }: BlockProps) => {
-  const scrollTo = (id: string) => {
-    const element = document.getElementById(id) as HTMLDivElement;
-    if (element) {
-      element.scrollIntoView({
-        behavior: "smooth",
-      });
-    }
-  };
-
+const CentredBlock = ({ title, content, sections, t }: BlockProps) => {  
   return (
     <CentredBlockContainer>
       <Fade direction="up" triggerOnce>
-        <h6 onClick={() => scrollTo(id)}>{t(title)}</h6>
-        <CentredBlockContentWrapper>
-          <CentredBlockContent>{t(content)}</CentredBlockContent>
-        </CentredBlockContentWrapper>
-        <CentredBlockRow gutter={0}>
-          {sections.map((section, index) => (
-            <BlockSection key={index} title={section.title} content={section.content} icon={section.icon} />
-          ))}
-        </CentredBlockRow>
+      <h6>{t(title)}</h6>
+      <CentredBlockContentWrapper>
+        <CentredBlockContent>{t(content)}</CentredBlockContent>
+      </CentredBlockContentWrapper>
+      <CentredBlockRow gutter={0}>
+        {sections.map((section, index) => (
+          <BlockSection key={index} title={section.title} content={section.content} icon={section.icon} />
+        ))}
+      </CentredBlockRow>
       </Fade>
     </CentredBlockContainer>
   );
