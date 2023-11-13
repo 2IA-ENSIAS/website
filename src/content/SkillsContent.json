@@ -1,0 +1,182 @@
+{
+    "title": "Our Skills",
+    "text": "As 2IA engineers, we possess a versatile skill set spanning advanced technologies, empowering us to contribute significantly to innovation in the tech industry.",
+    "section": [
+      {
+        "title": "Machine Learning",
+        "content": "",
+        "icon": "ml_icon.svg"
+      },
+      {
+        "title": "Deep Learning",
+        "content": "",
+        "icon": "deep_learning_icon.svg"
+      },
+      {
+        "title": "Time Series Forecasting",
+        "content": "",
+        "icon": "time_series_icon.svg"
+      },
+      {
+        "title": "Reinforcement Learning",
+        "content": "",
+        "icon": "reinforcement_learning_icon.svg"
+      },
+      {
+        "title": "Collective Intelligence",
+        "content": "",
+        "icon": "collective_intelligence_icon.svg"
+      },
+      {
+        "title": "Generative AI and LLMs",
+        "content": "",
+        "icon": "generative_ai_icon.svg"
+      },
+      {
+        "title": "NLP",
+        "content": "",
+        "icon": "nlp_icon.svg"
+      },
+      {
+        "title": "Computer Vision",
+        "content": "",
+        "icon": "computer_vision_icon.svg"
+      },
+      {
+        "title": "Speech Recognition",
+        "content": "",
+        "icon": "speech_recognition_icon.svg"
+      },
+      {
+        "title": "Bio-inspired Algorithms",
+        "content": "",
+        "icon": "bio_inspired_algorithms_icon.svg"
+      },
+      {
+        "title": "Data Clustering",
+        "content": "",
+        "icon": "data_clustering_icon.svg"
+      },
+      {
+        "title": "Data Analysis",
+        "content": "",
+        "icon": "data_analysis_icon.svg"
+      },
+      {
+        "title": "Data Cleaning",
+        "content": "",
+        "icon": "data_cleaning_icon.svg"
+      },
+      {
+        "title": "Data Visualization",
+        "content": "",
+        "icon": "data_visualization_icon.svg"
+      },
+      {
+        "title": "Feature Engineering",
+        "content": "",
+        "icon": "feature_engineering_icon.svg"
+      },
+      {
+        "title": "Data Engineering",
+        "content": "",
+        "icon": "data_engineering_icon.svg"
+      },
+      {
+        "title": "IoT",
+        "content": "",
+        "icon": "iot_icon.svg"
+      },
+      {
+        "title": "HPC",
+        "content": "",
+        "icon": "hpc_icon.svg"
+      },
+      {
+        "title": "Big Data",
+        "content": "",
+        "icon": "big_data_icon.svg"
+      },
+      {
+        "title": "Cloud Engineering",
+        "content": "",
+        "icon": "cloud_engineering_icon.svg"
+      },
+      {
+        "title": "MLOps",
+        "content": "",
+        "icon": "mlops_icon.svg"
+      },
+      {
+        "title": "Statistics",
+        "content": "",
+        "icon": "statistics_icon.svg"
+      },
+      {
+        "title": "Mathematical Modeling",
+        "content": "",
+        "icon": "mathematical_modeling_icon.svg"
+      },
+      {
+        "title": "Optimization",
+        "content": "",
+        "icon": "optimization_icon.svg"
+      },
+      {
+        "title": "Learning Theory",
+        "content": "",
+        "icon": "learning_theory_icon.svg"
+      },
+      {
+        "title": "Survival Analysis",
+        "content": "",
+        "icon": "survival_analysis_icon.svg"
+      },
+      {
+        "title": "Research",
+        "content": "",
+        "icon": "research_icon.svg"
+      },
+      {
+        "title": "Databases",
+        "content": "",
+        "icon": "databases_icon.svg"
+      },
+      {
+        "title": "CD / CI",
+        "content": "",
+        "icon": "ci_cd_icon.svg"
+      },
+      {
+        "title": "Networks",
+        "content": "",
+        "icon": "networks_icon.svg"
+      },
+      {
+        "title": "OOP",
+        "content": "",
+        "icon": "oop_icon.svg"
+      },
+      {
+        "title": "Full Stack",
+        "content": "",
+        "icon": "full_stack_icon.svg"
+      },
+      {
+        "title": "Entrepreneurship",
+        "content": "",
+        "icon": "entrepreneurship_icon.svg"
+      },
+      {
+        "title": "Economics",
+        "content": "",
+        "icon": "economics_icon.svg"
+      },
+      {
+        "title": "Management",
+        "content": "",
+        "icon": "management_icon.svg"
+      }
+    ]
+  }
+  

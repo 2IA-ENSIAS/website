@@ -1,11 +1,9 @@
 import { lazy } from "react";
 import IntroContent from "../../content/IntroContent.json";
-import MiddleBlockContent from "../../content/MiddleBlockContent.json";
-import AboutContent from "../../content/AboutContent.json";
-import MissionContent from "../../content/MissionContent.json";
-import ProductContent from "../../content/ProductContent.json";
 import ContactContent from "../../content/ContactContent.json";
-import Block from "../../components/Block";
+import SkillsContent from "../../content/SkillsContent.json";
+import RolesContent from "../../content/RolesContent.json";
+import ToolsContent from "../../content/ToolsContent.json";
 
 const Contact = lazy(() => import("../../components/ContactForm"));
 const MiddleBlock = lazy(() => import("../../components/MiddleBlock"));
@@ -24,20 +22,25 @@ const Home = () => {
         content={IntroContent.text}
         button={IntroContent.button}
         icon="developer.svg"
-        id="intro"
+        id="about"
       />
       <CentredBlock
-        title={AboutContent.title}
-        content={AboutContent.text}
-        sections={AboutContent.section}
+        title={RolesContent.title}
+        content={RolesContent.text}
+        sections={RolesContent.section}
+        id="roles"
       />
-      <ContentBlock
-        direction="left"
-        title={ProductContent.title}
-        content={ProductContent.text}
-        section={AboutContent.section}
-        icon="waving.svg"
-        id="activities"
+      <CentredBlock
+        title={SkillsContent.title}
+        content={SkillsContent.text}
+        sections={SkillsContent.section}
+        id="skills"
+      />
+      <CentredBlock
+        title={ToolsContent.title}
+        content={ToolsContent.text}
+        sections={ToolsContent.section}
+        id="tools"
       />
       <Contact
         title={ContactContent.title}

@@ -62,7 +62,7 @@ export const BlockSectionContainer = styled.div`
 export const BlockSectionTitle = styled.h6`
   font-size: 18px;
   margin-bottom: 8px;
-  margin-top: 30px;
+  margin-top: 100px;
   color: #000;
   position: relative;
 `;

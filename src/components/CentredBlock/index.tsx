@@ -1,14 +1,12 @@
 // CentredBlockWithSections.tsx
 import { withTranslation, TFunction } from "react-i18next";
+import { Fade } from "react-awesome-reveal";
 import {
   CentredBlockContainer,
   CentredBlockRow,
   CentredBlockCol,
   CentredBlockContentWrapper,
-  CentredBlockTitle,
-  CentredBlockIcon,
   CentredBlockContent,
-  CentredBlockButtonWrapper,
   BlockSectionContainer,
   BlockSectionTitle,
   BlockSectionIcon,
@@ -26,6 +24,7 @@ interface BlockProps {
   content: string;
   sections: SectionProps[];
   t: TFunction;
+  id: string;
 }
 
 const BlockSection = ({ title, content, icon }: SectionProps) => {
@@ -42,18 +41,29 @@ const BlockSection = ({ title, content, icon }: SectionProps) => {
   );
 };
 
-const CentredBlock = ({ title, content, sections, t }: BlockProps) => {
+const CentredBlock = ({ title, content, sections, t, id }: BlockProps) => {
+  const scrollTo = (id: string) => {
+    const element = document.getElementById(id) as HTMLDivElement;
+    if (element) {
+      element.scrollIntoView({
+        behavior: "smooth",
+      });
+    }
+  };
+
   return (
     <CentredBlockContainer>
-      <h6>{t(title)}</h6>
-      <CentredBlockContentWrapper>
-        <CentredBlockContent>{t(content)}</CentredBlockContent>
-      </CentredBlockContentWrapper>
-      <CentredBlockRow gutter={0}>
-        {sections.map((section, index) => (
-          <BlockSection key={index} title={section.title} content={section.content} icon={section.icon} />
-        ))}
-      </CentredBlockRow>
+      <Fade direction="up" triggerOnce>
+        <h6 onClick={() => scrollTo(id)}>{t(title)}</h6>
+        <CentredBlockContentWrapper>
+          <CentredBlockContent>{t(content)}</CentredBlockContent>
+        </CentredBlockContentWrapper>
+        <CentredBlockRow gutter={0}>
+          {sections.map((section, index) => (
+            <BlockSection key={index} title={section.title} content={section.content} icon={section.icon} />
+          ))}
+        </CentredBlockRow>
+      </Fade>
     </CentredBlockContainer>
   );
 };

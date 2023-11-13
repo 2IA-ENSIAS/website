@@ -36,26 +36,32 @@ const Header = ({ t }: { t: TFunction }) => {
         <CustomNavLinkSmall onClick={() => scrollTo("about")}>
             <Span>{t("About")}</Span>
           </CustomNavLinkSmall>
+          <CustomNavLinkSmall onClick={() => scrollTo("roles")}>
+            <Span>{t("Roles")}</Span>
+          </CustomNavLinkSmall>
+          <CustomNavLinkSmall onClick={() => scrollTo("skills")}>
+            <Span>{t("Skills")}</Span>
+          </CustomNavLinkSmall>
+          <CustomNavLinkSmall onClick={() => scrollTo("tools")}>
+            <Span>{t("Tools")}</Span>
+          </CustomNavLinkSmall>
           <CustomNavLinkSmall onClick={() => scrollTo("projects")}>
             <Span>{t("Projects")}</Span>
           </CustomNavLinkSmall>
-          <CustomNavLinkSmall onClick={() => scrollTo("research")}>
-            <Span>{t("Research")}</Span>
-          </CustomNavLinkSmall>
-          <CustomNavLinkSmall onClick={() => scrollTo("activities")}>
-            <Span>{t("Activities")}</Span>
+          <CustomNavLinkSmall onClick={() => scrollTo("stats")}>
+            <Span>{t("Stats")}</Span>
           </CustomNavLinkSmall>
           <CustomNavLinkSmall onClick={() => scrollTo("network")}>
             <Span>{t("Network")}</Span>
           </CustomNavLinkSmall>
-        <CustomNavLinkSmall
+        {/* <CustomNavLinkSmall
           style={{ width: "180px" }}
           onClick={() => scrollTo("contact")}
         >
           <Span>
             <Button>{t("Contact")}</Button>
           </Span>
-        </CustomNavLinkSmall>
+        </CustomNavLinkSmall> */}
       </>
     );
   };

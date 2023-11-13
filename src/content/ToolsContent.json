@@ -1,0 +1,131 @@
+{
+  "title": "Our Tools",
+  "text": "As 2IA engineers, we leverage a comprehensive toolkit covering various technologies and frameworks. This diverse set of tools empowers us to tackle a wide array of challenges and contribute significantly to innovation in the tech industry.",
+  "section": [
+    {
+      "title": "Python",
+      "content": "",
+      "icon": "python_icon.svg"
+    },
+    {
+      "title": "C",
+      "content": "",
+      "icon": "c_icon.svg"
+    },
+    {
+      "title": "Java",
+      "content": "",
+      "icon": "java_icon.svg"
+    },
+    {
+      "title": "HTML / CSS / JavaScript",
+      "content": "",
+      "icon": "full_stack_icon.svg"
+    },
+    {
+      "title": "R Language",
+      "content": "",
+      "icon": "r_language_icon.svg"
+    },
+    {
+      "title": "Scikit-Learn",
+      "content": "",
+      "icon": "scikit_learn_icon.svg"
+    },
+    {
+      "title": "TensorFlow",
+      "content": "",
+      "icon": "tensorflow_icon.svg"
+    },
+    {
+      "title": "Keras",
+      "content": "",
+      "icon": "keras_icon.svg"
+    },
+    {
+      "title": "PyTorch",
+      "content": "",
+      "icon": "pytorch_icon.svg"
+    },
+    {
+      "title": "NumPy",
+      "content": "",
+      "icon": "numpy_icon.svg"
+    },
+    {
+      "title": "SciPy",
+      "content": "",
+      "icon": "scipy_icon.svg"
+    },
+    {
+      "title": "OpenAI Gymnasium",
+      "content": "",
+      "icon": "openai_gym_icon.svg"
+    },
+    {
+      "title": "Pandas",
+      "content": "",
+      "icon": "pandas_icon.svg"
+    },
+    {
+      "title": "Apache Spark",
+      "content": "",
+      "icon": "spark_icon.svg"
+    },
+    {
+      "title": "Seaborn",
+      "content": "",
+      "icon": "seaborn_icon.svg"
+    },
+    {
+      "title": "Matplotlib",
+      "content": "",
+      "icon": "matplotlib_icon.svg"
+    },
+    {
+      "title": "Jupyter Notebook",
+      "content": "",
+      "icon": "jupyter_icon.svg"
+    },
+    {
+      "title": "Hadoop DFS",
+      "content": "",
+      "icon": "hadoop_dfs_icon.svg"
+    },
+    {
+      "title": "Arduino",
+      "content": "",
+      "icon": "arduino_icon.svg"
+    },
+    {
+      "title": "Linux",
+      "content": "",
+      "icon": "linux_icon.svg"
+    },
+    {
+      "title": "Windows",
+      "content": "",
+      "icon": "windows_icon.svg"
+    },
+    {
+      "title": "CUDA",
+      "content": "",
+      "icon": "cuda_icon.svg"
+    },
+    {
+      "title": "Virtual Machine",
+      "content": "",
+      "icon": "virtual_machine_icon.svg"
+    },
+    {
+      "title": "Docker",
+      "content": "",
+      "icon": "mlops_icon.svg"
+    },
+    {
+      "title": "LaTeX",
+      "content": "",
+      "icon": "latex_icon.svg"
+    }
+  ]
+}
